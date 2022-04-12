@@ -184,6 +184,7 @@ i.fa-step-backward{
 
 @media (max-width:473px){
     html{
+        margin-top: 3rem;
         width:fit-content;
     }
 }
