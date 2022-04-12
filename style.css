@@ -181,3 +181,9 @@ i.fa-step-backward{
 .stroke:nth-child(7){
     animation-delay: 0s;
 }
+
+@media (max-width:473px){
+    html{
+        width:fit-content;
+    }
+}
